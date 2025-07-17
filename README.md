@@ -29,8 +29,8 @@ I'm a **Developer Advocate at Adyen**, focused on improving developer experience
 
 ## 💬 Let's Connect
 
-- 🌐 [ayo.so](https://ayodeji.dev)
-- 🐦 [@ayodejiogundare](https://x.com/ayodejidev)
+- 🌐 [ayodeji.dev](https://ayodeji.dev)
+- 🐦 [@ayodejidev](https://x.com/ayodejidev)
 - 💼 [LinkedIn](https://linkedin.com/in/ayodej-iogundare)
 
 ---

@@ -15,7 +15,7 @@ I'm a **Developer Advocate at Adyen**, focused on improving developer experience
 ## 🗣️ Talks & Writing
 
 - 🎤 *“[Imagine a World Without Open Source](https://www.youtube.com/watch?v=-ZnzJEB3GGg)”* – Open Source Community Africa
-- 📝 [Kubernetes Community Days Blog – CNCF]([https://kcd.io](https://www.cncf.io/blog/2023/04/11/the-longest-running-kubernetes-community-days-is-back/)
+- 📝 [Kubernetes Community Days Blog – CNCF](https://www.cncf.io/blog/2023/04/11/the-longest-running-kubernetes-community-days-is-back/)
 - 🎙️ Interview – [DeveloperRelations.com](https://developerrelations.com/origin-stories/ayodeji-ogundare/)
 
 ---

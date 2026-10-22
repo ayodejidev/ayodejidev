@@ -1,36 +1,39 @@
-# Hi there, I'm Ayodeji 👋
+# Hey, I'm Ayodeji 👋
 
-I'm a **Developer Advocate at Adyen**, focused on improving developer experience, supporting open source strategy, and helping merchants integrate faster and better. I bridge the gap between engineering and community by shipping clear docs, scalable SDKs, and impactful technical content.
+I'm a **Developer Advocate at Adyen**, working at the intersection of **Developer Experience, Open Source, and AI**.
 
----
+I care about making complex technologies easier to adopt, building tools that help developers move faster, and creating systems that enable engineering teams to collaborate at scale.
 
-## 🔧 What I Work On
+My work spans developer tooling, SDKs, open source governance, technical content, and developer communities.
 
-- **DevX at scale** – building tools, docs, and workflows that make integration seamless.
-- **Open Source Strategy** – driving Adyen’s open source efforts, governance, and community.
-- **Developer Content** – blogs, videos, docs, and talks that empower and educate devs.
+## 🚀 What I'm working on
 
----
+- **Developer Experience** – Building tools, integration examples, and workflows that reduce friction and help developers integrate faster.
+- **Open Source & InnerSource** – Improving open source governance, engineering collaboration, and sustainable contribution models.
+- **Agentic Developer Experience** – Exploring how AI agents interact with APIs, documentation, and developer tools, and what it takes to make these systems agent-ready.
+- **Developer Communities** – Bringing developers together through technical talks, meetups, and knowledge sharing.
 
-## 🗣️ Talks & Writing
+## 🎤 Talks & Writing
 
-- 🎤 *“[Scaling Internal Collaboration with Open Source Operating Models](https://www.youtube.com/watch?v=ggF3fIT5lh8&t=19s)”* – InnerSource Summit 2025, Berlin
-- 📝 [Kubernetes Community Days Blog – CNCF](https://www.cncf.io/blog/2023/04/11/the-longest-running-kubernetes-community-days-is-back/)
-- 🎙️ Interview – [DeveloperRelations.com](https://developerrelations.com/origin-stories/ayodeji-ogundare/)
+I enjoy sharing practical lessons from building developer platforms, scaling engineering collaboration, and exploring emerging technologies.
 
----
+- 🎤 **Beyond Scraping: Building Agent-Ready Documentation Layers for MCP and AI Agents** – AGNTCon + MCPCon North America, 2026
+- 🎤 **Stop Rebuilding the Same Thing: Scaling Internal Collaboration with an Open Source Operating Model** – PGDay Lowlands, 2026
+- 🎤 [Scaling Internal Collaboration with Open Source Operating Models](https://www.youtube.com/watch?v=ggF3fIT5lh8&t=19s) – InnerSource Summit, Berlin, 2025
+- 📝 [The Longest Running Kubernetes Community Days Is Back](https://www.cncf.io/blog/2023/04/11/the-longest-running-kubernetes-community-days-is-back/) – CNCF
+- 🎙️ [My Developer Relations Journey](https://developerrelations.com/origin-stories/ayodeji-ogundare/) – DeveloperRelations.com
 
-## 🧠 What I'm Learning
+## 🌱 Currently exploring
 
-- 📚 Platform Engineering & DevOps
-- 🤖 AI Engineering Foundations
+- AI agents and agent-ready developer platforms
+- Open source ecosystems and governance
+- Platform engineering and developer productivity
+- Building with Go and Java
 
----
+## 🤝 Let's connect
 
-## 💬 Let's Connect
+I'm always interested in conversations about developer experience, open source, AI, and building better tools for developers.
 
-- 🌐 [ayodeji.dev](https://ayodeji.dev)
-- 🐦 [@ayodejidev](https://x.com/ayodejidev)
-- 💼 [LinkedIn](https://linkedin.com/in/ayodej-iogundare)
-
----
+- 🌐 **Website:** [ayodeji.dev](https://ayodeji.dev)
+- 💼 **LinkedIn:** [Ayodeji Ogundare](https://linkedin.com/in/ayodej-iogundare)
+- 𝕏 **X:** [@ayodejidev](https://x.com/ayodejidev)
